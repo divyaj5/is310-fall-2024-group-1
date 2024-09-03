@@ -11,4 +11,5 @@ _Please note this list of members is tentative and subject to change as students
 - Thea K.
 - Ellis L.
 - A.G. S.
+- Taerin K.
 
