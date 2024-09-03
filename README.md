@@ -1,4 +1,4 @@
-# is310-fall-group-1
+# is310-fall-2024-group-1
 To be updated with a description for a collaborative semester long project
 
 ## Tentative Group Members
