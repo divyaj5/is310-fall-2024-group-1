@@ -15,6 +15,7 @@ This is a template for project managers to report their weekly progress. Please 
 - [ ] Updated the project board
 - [ ] Checked in with team members
 - [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
 
 ## Weekly Summary:
 *Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
