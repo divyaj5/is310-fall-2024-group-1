@@ -1,12 +1,15 @@
 # is310-fall-2024-group-1
-To be updated with a description for a collaborative semester long project
+Exploring the byegone era of Adobe Flash games
 
-## Tentative Group Members
+## Project Manager Rotation
+- Current PM (Sept 17-23): A.G. Samaniego
+- Next PM: Divya 
+Rotation as shown: (A.G., Divya J., Ellis L., Zifan Z., Thea K.)
 
-These members were selected because of your broad interests in aesthetics (think art and design) and what might be described as the cultural industries, whether that's new digital cultures on social media or older ones that we are now digitizing. You are not required to keep your group focused on this area for this project, but I share this broad overview to hopefully help spark initial brainstorming together.
+## Premise of Project
+This project explores the evolution of flash games from 1999 to the retirement of Adobe Flash in 2020. (TBC)
 
-_Please note this list of members is tentative and subject to change as students join or leave the class in the next week or so._
-
+### Group Members
 - Divya J.
 - Thea K.
 - Ellis L.
