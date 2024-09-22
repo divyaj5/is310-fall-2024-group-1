@@ -9,6 +9,11 @@ Exploring the byegone era of Adobe Flash games
 ## Premise of Project
 This project explores the evolution of flash games from 1999 to the retirement of Adobe Flash in 2020. (TBC)
 
+## Navigation
+- <project-docs> Here you will find our original brainstorming documents, proposal, and subsequent research
+- <images> Images we have saved and embedded into our responses
+- More folders to be added soon...
+
 ### Group Members
 - Divya J.
 - Thea K.
