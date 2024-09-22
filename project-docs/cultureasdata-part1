@@ -1,4 +1,45 @@
-1996 - 2005:
+Pre 2011: Prior to Stage3D
+Post 2011: Release of Stage3D, allows for 3D rendering on Flash https://books.google.com/books?id=UGD4zMFnK0QC&pg=PA17#v=onepage&q&f=false 
 
-2005 and beyond:
+Preservation of Filipino indie games on Flashpoint: https://newsbytes.ph/2021/02/02/pinoy-made-flash-indie-games-preserved-for-posterity-as-browser-support-ends/ 
+
+
+2. If you already have a dataset:
+If you’ve already identified some datasets, then you should focus on exploring specific data points in the datasets that relate to the cultural objects or practices you are planning to focus on.
+Pre 2011 & Post 2011 games
+Focus on: Customization games
+Dress up
+Makeup
+Decoration games (customizing a room/space)
+
+
+For example, if you have historic and contemporary datasets, you should see if you can find individual data points (which would be the actual objects or practices) that would likely have gone into creating the dataset. If you cannot find any identical data points, you can again define relevance broadly and look for similar data points from other cultural groups, objects or practices that are comparable.
+Questions for Historic vs. Contemporary Datasets Reflection
+Permalink
+Your group should aim to find both historic datasets (pre-1980s) and contemporary datasets (post-1980s) to compare (ideally one of both). Even if you can’t find perfect matches, try to locate datasets that address similar types of cultural data, which can still provide valuable insights.
+Once you have identified both types of datasets, answer the following questions in your group’s GitHub repository:
+1. How do these datasets differ in how they represent cultural objects or practices?
+Compare how the digital object itself and the dataset convey the same cultural artifact. What details are maintained, and what are simplified or lost?
+
+The datasets are presented pretty similarly on flashpoint and internet archive. It follows basically the same format of tabular data, such as the release date, who it was from, and other details. Screenshots are also consistently provided alongside games in both datasets. The way games portray people is a major difference between pre 2011 and post 2011 dress up games. An example of data that has been lost is information about the way a game was indexed on it’s source website, which would’ve been useful as an analysis tool. 
+
+2. What kind of metadata or context accompanies the data?
+
+The metadata that accompanies the data follows the same format pre and post 2005. Data such as release date, playmode, author, and status are all available. The flashpoint archive also has a tagging system that provides further context for what you’re looking at. A lot of the uploads to the website also include descriptions of the games.
+
+3. Does the dataset reflect any power structures or biases? (THEA)
+Discuss how the dataset’s structure, curation, or presentation reflects specific power structures. Consider who controls the dataset, what narratives it promotes, and whose perspectives are centered or marginalized.
+
+In a lot of the dress up games in the data set, white people’s perspectives are centered. The cover images for games are white people. The default skin once you enter the game is usually white, and if the game does offer didn’t skin colors, options are limited. The narrative being promoted is the idea that white people/euro-centric features are the ‘beauty standard’. The narrative that girls are more interested in dress up games is also being promoted, as most of these games are very clearly geared towards women. 
+
+4. Are there any notable gaps in the data? (AG)
+Analyze what might be missing from the dataset that was part of the digital object. Why do you think this data is missing? Is it due to technical limitations, a lack of value, or active suppression?
+
+The notable gaps in the data are the fact that we're probably operating with a survivorship bias, and we're only able to draw conclusions from the data that has been successfully preserved, and everything else is, for all intents and purposes, gone. We also cannot tell what countries of origin the games are from, unless the descriptions or the script of the gameplay is in another language. 
+
+By the end of this part, your group should have documented the differences and similarities between historic and contemporary datasets, focusing on how they represent cultural objects or practices, what is missing, and the power dynamics embedded in them. You are encouraged to make connections to our class readings so far, whether through direct citations or general 
+
+Sources:
+Preservation of Filipino indie games on Flashpoint: https://newsbytes.ph/2021/02/02/pinoy-made-flash-indie-games-preserved-for-posterity-as-browser-support-ends/ 
+
 
