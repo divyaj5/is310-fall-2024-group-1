@@ -1,0 +1,30 @@
+Object 1: ANOTHER dress up sims OH NOES
+Dataset: https://flashpointproject.github.io/flashpoint-database/search/
+Dataset showcases games before 2011
+
+“"ANOTHER dress up sims OH NOES" is a flash-based dress-up simulation game, typical of the genre popular in the early 2000s. It allows players to customize and dress up virtual characters using various clothing, hairstyles, and accessories. These games often emphasized creativity and personalization, targeting a casual, often younger audience.
+
+For the dataset available on the Flashpoint Archive, filtered for games that came out before 2011, it is a comprehensive collection of older Flash games. The Flashpoint Archive serves as a preservation project for Flash content, ensuring that these early web-based games remain accessible despite the discontinuation of Flash Player. The dataset includes metadata such as game titles, release dates, genres, and URLs, capturing an essential part of web gaming history from this era, including dress-up games, platformers, puzzle games, and more.” (ChatGPT)
+
+Object 2: Amazing Dress Up Philip Lester
+Dataset: https://flashpointproject.github.io/flashpoint-database/search/
+Dataset showcases games after 2011
+"Amazing Dress Up Philip Lester" is a Flash-based dress-up game where players can customize and style a virtual version of Philip Lester, a well-known British YouTuber and radio personality. Like many dress-up games, it allows users to change his outfits, hairstyles, and accessories in a fun, interactive way. This game likely appeals to fans of Philip Lester (often known as Phil) and the wider YouTube community, incorporating pop culture and fandom into the gameplay experience.
+For the dataset available on the Flashpoint Archive filtered for games released after 2011, it contains a curated collection of Flash games from the post-2011 period, when Flash games were still popular but starting to decline due to changes in web technologies. The dataset includes metadata such as titles, genres, developers, and release dates, with games spanning various genres like dress-up, platformers, and action. This collection preserves the history of Flash-based entertainment, ensuring that these games, created before Flash was discontinued, remain accessible to future players.” (ChatGPT)
+
+
+
+
+
+
+AI Reflection
+In the AI-generated descriptions, there's a clear difference between how the specific games (like "ANOTHER dress up sims OH NOES" or "Amazing Dress Up Philip Lester") and the dataset are presented. For the games, the AI focuses on the interactive, creative aspects, such as customizing outfits, framing them as personalized experiences meant for specific audiences like young players or fans.
+In contrast, the dataset descriptions are more detached, emphasizing preservation and metadata (like titles, release dates, and genres), without exploring the personal or cultural significance of the games. The dataset acts as a structural catalog and lacks the deeper engagement with the games' cultural relevance, such as the fan communities or social dynamics surrounding them.
+The AI’s language shows a subtle bias toward the technical and preservation aspects, treating the dataset as a neutral, static collection. This overlooks the power dynamics behind which games are included or excluded, what metadata is emphasized, and how the games are represented in a broader cultural context. For example, dress-up games, often aimed at young girls or fandoms, may be undervalued in archival efforts compared to "mainstream" or "serious" games, but the AI doesn’t address these inequalities.
+Several key points are missing from the descriptions. The cultural impact or emotional significance of these games, like the connection between "Amazing Dress Up Philip Lester" and YouTube fan culture, is glossed over. The AI also doesn't critique gaps in the dataset, such as whether certain non-mainstream games or those from marginalized creators were excluded, reinforcing the idea that the dataset is complete and neutral when it's shaped by the biases of those who curate it.
+Ultimately, the AI reinforces existing narratives about these games rather than challenging them. It treats the games as simple entertainment without exploring their roles in identity, fandom, or gender dynamics. There’s little critical reflection on the archival process or the power structures that influence how these games are remembered, missing an opportunity to bring fresh perspectives to the cultural significance of these games.
+
+
+
+
+
