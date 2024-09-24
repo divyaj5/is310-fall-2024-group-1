@@ -12,7 +12,7 @@ Our project group intends to explore the evolution of graphics and how new allow
 
 Due to the nature of our cultural artifact (Adobe Flash games), our group will not be handling any physical artifacts, as most of our media is already digitized and archived. 
 
-Example of a game within the Flashpoint archive, and its tabular metadata:
+Example of a game within the ![Flashpoint archive](https://flashpointarchive.org/), and its tabular metadata:
 ![image](https://github.com/user-attachments/assets/1426a269-9804-41e5-9cc8-ae7743fcac8e)
 
 ![image](https://github.com/user-attachments/assets/f1788930-0df0-4d77-a583-d9994ce2011d)
