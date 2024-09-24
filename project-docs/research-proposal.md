@@ -3,12 +3,18 @@
 ## Topic: Adobe Flash Games
 
 Within our group, our shared area of cultural interest was aesthetics and internet subcultures. From there, we began brainstorming and chose to explore Adobe Flash games, specifically games that have been saved after the decommissioning of Adobe Flash in 2020. For the time being, we intend to keep a broader research question.
-- __**Research Question**__: What patterns emerge across "Customization"-themed Adobe Flash games from pre-2011, and post-2011? 
+- __**Research Question**__: What patterns emerge across "Customization"-themed Adobe Flash games from pre-2011, and post-2011? (Additionally, what patterns arise in the portrayal of gender across Flash games?)
     - Note: Customization games is a category we have coined as a group, referring to games involving dress-up, make-up, room customization, and character creation. This does not include RPG games with customization features.
+
+Our project group intends to explore the evolution of graphics and how new allowances in Adobe Flash (prior to its decommissioning) have influenced customization games, as well as how portrayals of gender have evolved across the lifespan of the software.
 
 ## Materials
 
 Due to the nature of our cultural artifact (Adobe Flash games), our group will not be handling any physical artifacts, as most of our media is already digitized and archived. 
+
+Example of a game within the Flashpoint archive, and its tabular metadata:
+![Duck life screenshot](images/ducklife-tableex1 "This is a game that A.G. had played a lot as a 7 year old on the internet. Niche, but fun.")
+![Duck life metadata table](images/ducklife-tableex2)
 
 Because most games within Flashpoint Archive are not operational online and must be run locally, we will likely have to download and run a Flash emulator on our computers if we wish to directly interact with the games. The archive offers an open-source Flash emulator for free, which is open for download to everyone. The community is active (with a Discord server of 31,000+ members) and many contributors, and looking at the docs, the mods have made sure that the emulator software will not trigger any problems with any anti-virus software that other users may have pre-installed on their machine. Overall, I say the open-source emulator is well maintained and can be a reliable tool for our research.
 
@@ -16,8 +22,11 @@ Because most games within Flashpoint Archive are not operational online and must
 
 ### __Potential limitations__:
 - **Flashpoint Archive's search feature**: Sadly, Flashpoint's games are not indexed in such a way that allows for navigation by game category, and can only be accessed through the website's search bar. There are Smart Filters available, so that users can filter by Developer, Year, etc. Part of our responsibilities during our research may be to come up with search terms that will pull the most relevant results, and creating consistent filter settings to use across all queries.
+     - Another note: The archived games do not have formal categories, but they DO have tags created by the archivists-- This may be useful? 
 - **Web Scraping Issues**: One thing about the Flash media saved in the archive is that all of its metadata (ex: Year released, Online pseudonym of the Developer, Date Uploaded, etc) is displayed as a table, placed below the preview screenshots of the game. This would be extremely useful to webscrape and analyze, but we are unsure if it would be possible to webscrape our queries on the Flashpoint Archive-- This is something we are currently trying to plan for.
-- **
+- **Running Flashpoint Archive locally**: The website allows users to download the archive and run it on your local machine with no internet. We as a group are considering running Flashpoint locally on our laptops and seeing if the games may potentially be indexed in the app, rather than on the live website-- Whether or not our laptops will be able to run it (due to different operating systems) might be a different story.
+- **Alternative plan for non-operational games**: If our group wishes to analyze a small set of games through playthroughs, it is inevitable that some of the games may be defunct or have corrupt files, making them unplayable. In a situation such as that, we may just need to draw conclusions based on the metadata provided in the table attached. 
+
 
 ## Division of Labor
 
@@ -25,47 +34,24 @@ In regard to our Project Manager rotation, our team plans on rotating the role o
 
 Our rotation is set up as shown: 
 - A.G.
-- Divya Jain
+- Divya
 - Ellis 
 - Thea
 - Zifan
 
-Our group consists of 5 people, with each member holding respective strengths and unique domain knowledge. 
+Our group consists of 5 people, with each member holding respective strengths and unique domain knowledge. Divya and Ellis both have experience with UI/UX and extensive design knowledge, which will prove to be useful when analyzing common conventions found across game designs within the flash archive. A.G. and Thea are both familiar with Flash games and the software as a whole, having engaged with these games in years past. Both Zifan and A.G. have a technical background, and can potentially aid the group in web-scraping and importing/cleaning data for analysis in the following weeks. 
+
+Our group will be keeping in contact through text messages, and will consistently be checking our GitHub projects page. 
 
 ## Timeline
 
 This timeline is subject to change:
 
-[ ] September 16-30:
+[ ] September 23-30: Finalize methodology, create stategy for how to parse through games in Flashpoint and collect metadata of interest
+     - Potentially one of us will try to run Flashpoint locally, and if successful, will teach the rest of the group
 
-[ ] October 1st-16th:
+[ ] October 1st-15th: Troubleshooting issues with Flashpoint and webscraping
+     - 1st-8th: Start collecting data and importing it
+     - 8th-15th: Figuring out how to synthesize the data, potentially make data viz?
 
-[ ]
-
-
-I. Subject Focus: Aesthetics & Internet Sub-cultures
-    A. Evolution of Adobe Flash Games
-      i. Games preserved prior to retirement of software
-    B. Research Question: How has 
-    C. Scope of project:
-
-## Materials
-I. Adobe Flash Files from archives
-    A. Everything is already digitized
-    B. Everything is also indexed
-II. Adobe Flash Emulator	
-    A. Used to run some of the games
-    B. Does not need internet
-III. Collecting data
-    A. Collect metadata from Flashpoint Archive (ex: date released, website, developer, etc)
-
-## Division of Labor
-I. PM Rotations
-    A. Weekly basis
-      i. I started, next is Divya, etc
-II. Strengths & how to accommodate them
-III. Keeping in Contact
-    A. Text message group chat
-    B. Also we check GitHub consistently 
-
-## TIMELINE
+[ ] October 15th-29th:
