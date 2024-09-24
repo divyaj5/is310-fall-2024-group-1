@@ -2,9 +2,9 @@
 This document covers Part 1 of the 2nd phase of our project, Culture As Data. See Pt. 2 for the AI reflection.
 
 ## Our Datasets
-Dataset: Flashpoint Archive, divided between 2 time periods:
+Dataset: [Flashpoint Archive](https://flashpointarchive.org/), divided between 2 time periods:
 - Pre 2011: Prior to Stage3D
-- Post 2011: Release of Stage3D, allows for 3D rendering on Flash https://books.google.com/books?id=UGD4zMFnK0QC&pg=PA17#v=onepage&q&f=false 
+- Post 2011: Release of Stage3D, allows for 3D rendering on Flash [source](https://books.google.com/books?id=UGD4zMFnK0QC&pg=PA17#v=onepage&q&f=false)
 
 For our dataset, we intend to use the 150,000+ games stored within the Flashpoint archive.Our focus is specifically on "Customization Games", such as dress up games, make-up, room decoration, character creation, etc. 
 - __**Why this dataset?**__: Our group originally intended to use Internet Archive and Flashpoint archive as comparative datasets, until we realized that IA only had 5,000+ Flash games, while Flashpoint had over 150,000 Flash games *alone*, not even counting Flash-based images/media. We felt that using Flashpoint games, and dividing up the archive by time period would make a better comparative dataset because it is much more robust, and its metadata is provided in tables. 
