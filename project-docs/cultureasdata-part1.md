@@ -14,25 +14,24 @@ For our dataset, we intend to use the 150,000+ games stored within the Flashpoin
 1. How do these datasets differ in how they represent cultural objects or practices?
 Compare how the digital object itself and the dataset convey the same cultural artifact. What details are maintained, and what are simplified or lost?
 
-    > The datasets are presented pretty similarly on flashpoint and internet archive. It follows basically the same format of tabular data, such as the release date, who it was from, and other details. Screenshots are also consistently provided alongside games in both datasets. The way games portray people is a major difference between pre 2011 and post 2011 dress up games. An example of data that has been lost is information about the way a game was indexed on its source website, which could have been useful in analysis. 
+The datasets are presented pretty similarly on flashpoint and Internet Archive. It follows basically the same format of tabular data, such as the release date, who it was from, and other details. Screenshots are also consistently provided alongside games in both datasets. The way games portray people is a major difference between pre 2011 and post 2011 dress up games. An example of data that has been lost is information about the way a game was indexed on its source website, which could have been useful in analysis. 
 
 2. What kind of metadata or context accompanies the data?
 
-    > The metadata that accompanies the data follows the same format pre and post 2005. Details such as release date, playmode, author, and status are all available. The flashpoint archive also has a tagging system that provides further context for what you’re looking at. A lot of the uploads to the website also include descriptions of the games. 
+The metadata that accompanies the data follows the same format pre and post 2005. Details such as release date, playmode, author, and status are all available. The flashpoint archive also has a tagging system that provides further context for what you’re looking at. A lot of the uploads to the website also include descriptions of the games. 
 
-3. Does the dataset reflect any power structures or biases? (THEA)
-Discuss how the dataset’s structure, curation, or presentation reflects specific power structures. Consider who controls the dataset, what narratives it promotes, and whose perspectives are centered or marginalized.
+3. Does the dataset reflect any power structures or biases?
 
-    > In a lot of the dress up games in the data set, white people’s perspectives are centered. The cover images for games are white people. The default skin once you enter the game is usually white, and if the game does offer didn’t skin colors, options are limited. The narrative being promoted is the idea that white people/euro-centric features are the ‘beauty standard’. The narrative that girls are more interested in dress up games is also being promoted, as most of these games are very clearly geared towards women. 
+Flashpoint Archive is the brainchild of an Australian man, who was able to grow the archive into a community of thousands within the span of months; that is not to say that the archive's persepctive is infalliable. It is difficult to tell whether or not one language, or one developer is prioritized over others and is overrepresented in the dataset-- This is due to the nature of Flashpoint's website, which uses a search engine to find games, rather than indexed pages.
 
-4. Are there any notable gaps in the data? (AG)
-Analyze what might be missing from the dataset that was part of the digital object. Why do you think this data is missing? Is it due to technical limitations, a lack of value, or active suppression?
+In reference to some of the customization games present: A lot of the dress up games in the data set, white people’s perspectives are centered. The cover images for games are white people. The default skin once you enter the game is usually white, and if the game does offer didn’t skin colors, options are limited. The narrative being promoted is the idea that white people/euro-centric features are the ‘beauty standard’. The narrative that girls are more interested in dress up games is also being promoted, as most of these games are very clearly geared towards women. 
 
-    > The Flashpoint archive is undoubtedly an extensive collection, but it is inevitable to have gaps. Flashpoint Archive is entirely volunteer run, and works quite similarly to a Zine library in the sense that the volunteer archivists collect Flash games that have been personally sourced on the internet, or have been "donated" or sent in by other creator/game enthusiast/etc. Within our group, and with our current understanding of Adobe Flash and related games, these are the gaps we predict may show up in our dataset.
+4. Are there any notable gaps in the data?
 
+The Flashpoint archive is undoubtedly an extensive collection, but it will inevitably have gaps. Flashpoint Archive is entirely volunteer run, and works quite similarly to a Zine library in the sense that the volunteer archivists collect Flash games that have been personally sourced on the internet, or have been "donated" or sent in by other creator/game enthusiast/etc. Within our group, and with our current understanding of Adobe Flash and related games, these are the gaps we predict may show up in our dataset.
+- **Slight survivorship bias**: We are drawing conclusions based on the games that have been *saved*, yet there may be observations/conclusions that can be drawn specifically from the absence of other game genres/types
+- **Untracable country of origin**: While the pioneer of Flashpoint Archive was Australian, not all the games in the archive are of Australian or American orign. There are several games from the Philippines created by indie developers that had made its way into the archive !(examples here)[https://newsbytes.ph/2021/02/02/pinoy-made-flash-indie-games-preserved-for-posterity-as-browser-support-ends/ ], and in our findings, there had been other games written in other languages (presumably Kanji/Japanese). Yet not all games in the archive have tracable roots to any one country. This metadata may be lost, simply due to technical limitations
 
-
-    The notable gaps in the data are the fact that we're probably operating with a survivorship bias, and we're only able to draw conclusions from the data that has been successfully preserved, and everything else is, for all intents and purposes, gone. We also cannot tell what countries of origin the games are from, unless the descriptions or the script of the gameplay is in another language. 
 
 
 Sources:
