@@ -1,4 +1,5 @@
 # Culture As Data: Part 1
+(A.G. & Thea)
 This document covers Part 1 of the 2nd phase of our project, Culture As Data. See Pt. 2 for the AI reflection.
 
 ## Our Datasets
