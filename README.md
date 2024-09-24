@@ -19,5 +19,5 @@ This project explores the evolution of flash games from 1999 to the retirement o
 - Thea K.
 - Ellis L.
 - A.G. S.
-- Taerin K.
+- Zifan
 
