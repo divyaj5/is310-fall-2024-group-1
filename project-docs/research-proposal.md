@@ -13,8 +13,8 @@ Our project group intends to explore the evolution of graphics and how new allow
 Due to the nature of our cultural artifact (Adobe Flash games), our group will not be handling any physical artifacts, as most of our media is already digitized and archived. 
 
 Example of a game within the Flashpoint archive, and its tabular metadata:
-![Duck life screenshot](images/ducklife-tableex1 "This is a game that A.G. had played a lot as a 7 year old on the internet. Niche, but fun.")
-![Duck life metadata table](images/ducklife-tableex2)
+![](images/ducklife-tableex1 "This is a game that A.G. had played a lot as a 7 year old on the internet. Niche, but fun.")
+![](images/ducklife-tableex2)
 
 Because most games within Flashpoint Archive are not operational online and must be run locally, we will likely have to download and run a Flash emulator on our computers if we wish to directly interact with the games. The archive offers an open-source Flash emulator for free, which is open for download to everyone. The community is active (with a Discord server of 31,000+ members) and many contributors, and looking at the docs, the mods have made sure that the emulator software will not trigger any problems with any anti-virus software that other users may have pre-installed on their machine. Overall, I say the open-source emulator is well maintained and can be a reliable tool for our research.
 
