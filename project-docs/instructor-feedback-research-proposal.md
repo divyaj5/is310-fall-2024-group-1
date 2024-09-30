@@ -2,7 +2,7 @@
 
 Overall, I think you have a strong foundation for your semester-long project. Your proposed focus on Adobe Flash games is both relevant and creative, and I particularly appreciate your coining of “customization-themed” games as a way to explore the evolution of Flash games before their decommissioning in 2020. This focus, along with your interest in analyzing the portrayal of gender in these games, is well-aligned with the course objectives. I also really like the idea of combining web scraping of metadata with actually playing these games to investigate your chosen themes in depth.
 
-Your rotation of the Project Manager role and thoughtful acknowledgment of each group member’s expertise shows a strong start in organizing your collaboration. Additionally, your timeline provides a solid framework for moving forward.
+Your rotation of the Project Manager role and thoughtful acknowledgment of each group member’s expertise shows a strong start in organizing your collaboration. Additionally, your timeline provides a solid framework for moving forward. I also think your GitHub repository is looking very nice! I did notice that you had a `.DS_Store` and that you don't have a `.gitignore` file, so would recommend fixing those issues and also making sure you're taking a look at the [GitHub Style Guide](https://cultureasdata-uiuc.github.io/is310-fall-2024/assessments/05-github-style-guide/) on the course website. I do appreciate that you're using the GitHub Project Board to track your progress already, and would encourage you to also use it for this project to assign tasks and assess your rate of progress.
 
 However, there are several areas that need further development to ensure your project remains feasible and successful:
 
