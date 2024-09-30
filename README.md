@@ -4,7 +4,7 @@ Exploring the byegone era of Adobe Flash games
 ## Project Manager Rotation
 - **__Current PM (Sept 17-23)__**: A.G. Samaniego
 - **Next PM**: Divya 
-- **Rotation as shown**: (A.G., Divya J., Ellis L., Zifan Z., Thea K.)
+- **Rotation as shown**: (A.G., Divya J., Ellis L., Thea K.)
 
 ## Premise of Project
 This project explores the evolution of flash games from 1999 to the retirement of Adobe Flash in 2020. (TBC)
@@ -12,6 +12,7 @@ This project explores the evolution of flash games from 1999 to the retirement o
 ## Navigation
 - `project-docs`: Here you will find our original brainstorming documents, proposal, and subsequent research
 - `images`: Images we have saved and embedded into our responses
+- `proj-feedback`: Misc feedback from instructors & other groupmates
 - More folders to be added soon...
 
 ### Group Members
@@ -19,5 +20,4 @@ This project explores the evolution of flash games from 1999 to the retirement o
 - Thea K.
 - Ellis L.
 - A.G. S.
-- Zifan
 
