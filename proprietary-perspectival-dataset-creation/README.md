@@ -39,5 +39,5 @@ While creating this subjective column, we did encounter some discrepancies in ho
 	We came to a consensus that the @illinois1867 would be the most relevant as that is something in common for us all. Analyzing levels of engagement based on season, allowed for a clear distinction to understand how U of I students view and interact with posts on a seasonal basis, and how engagement may fluctuate during the school year and during off-seasons (say: Winter break and Summer break).
 	We definitely took into consideration how sponsored posts can falsify engagement or posts that are meant to be shared with friends such as funny posts, memes, or content containing well-known individuals. However, in order to combat this we tried to ensure consistency in our posts and have a deeper focus on nature and the season itself rather than the individuals in the post.
 	In creating this dataset, our team took various legal and ethical considerations. Our team chose to analyze posts off of a public Instagram account, specifically because metrics such as likes, shares, etc are visible to the public and do not need to be accessed through an API or an Admin account. The only concern with collecting data in this manner is the aspect of informed consent; the owner of illinois1865 does not know that its posts and its data is being collected for academic research reasons.  
-
+    
 
