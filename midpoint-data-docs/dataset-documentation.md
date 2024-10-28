@@ -24,4 +24,6 @@ For our semester long project, our group aims to explore Flashpoint Archive's co
 
 - **Content Description**: Your documentation should also provide a clear description of what the dataset contains. This includes an overview of the data fields, the type of information represented, and any relevant context. If your dataset is compiled from multiple sources, be sure to explain how these sources were combined and reconciled.
 
+This dataset contains multiple variables collected from the chosen games. We collected the name of the game, the year it was published, the developer, the publisher, the genders you could choose from, the number of skin tones, and a link to the game. Most of that data was to establish context for the game, like what year it was created and who created it. The two categories that contained the main data we were trying to scrape were gender and number of skin tones, as we were trying to track how those numbers changed throughout the years. All of our data was collected through the FlashPoint archive. 
+
 - **Responsibility and Contributions**: It is important to clearly outline who was responsible for each part of the dataset creation and documentation process. This not only ensures transparency but also helps the group reflect on the division of labor and make adjustments for future work.
