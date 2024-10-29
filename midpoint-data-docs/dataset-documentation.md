@@ -46,5 +46,17 @@ This should include explanations of how you gathered the data, any challenges yo
 You are encouraged to cite readings and materials from class to support your rationale.
 
 ### Technologies Used for Data Collection
-
+Ruffle Emulator: Utilized to run and interact with Flash games directly in the browser, facilitating the assessment of customization options and operability.
+Google Sheets: Served as the primary platform for collaborative data entry and documentation, allowing team members to simultaneously input and update game data.
+Web Browser Extensions: Employed for efficient navigation, screenshot capturing, and data extraction when interacting with the Flashpoint Archive.
+Version Control (GitHub): Managed our documentation and dataset using GitHub, enabling version tracking, collaborative updates, and ensuring that all team members have access to the latest data and documentation.
+Screen Recording Tools: Used to capture gameplay sequences, especially for partially operable games, to document and analyze visual elements and customization features.
+Data Visualization Tools (Planned for Future Iterations): Exploring the use of tools like Tableau or Python libraries (e.g., Matplotlib, Seaborn) to create visual representations of skin tone distributions and other collected data.
+Text Editors/IDEs: Utilized for any necessary scripting or data manipulation, such as Python or JavaScript, particularly if expanding data collection methods in the future.
+Cloud Storage Services: (If applicable) Used for backing up data and ensuring all team members have access to necessary files and resources.
+Summary of Additions
+Screen Recording Tools: To capture and analyze gameplay, especially for games that are partially operable.
+Data Visualization Tools: Planning to use visualization software for future data analysis and representation.
+Text Editors/IDEs: For scripting and data manipulation needs.
+Cloud Storage Services: To ensure data backup and accessibility for all team members.
 
