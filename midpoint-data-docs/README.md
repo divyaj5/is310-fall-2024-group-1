@@ -3,7 +3,8 @@
 This repository contains data and documentation for our semester-long project on the Flashpoint Archive. Our goal is to analyze the portrayal of women in dress-up games from pre- and post-2011.
 
 ### Datasets
-- [IS310 DATA - Sheet1.csv](./IS310%20DATA%20-%20Sheet1.csv): Contains the collected data for analysis.
+[IS310 DATA - Sheet1.csv](./IS310%20DATA%20-%20Sheet1.csv)
+
 
 ### Team Responsibilities
 - **Project Manager for this Checkpoint:** Ellis
