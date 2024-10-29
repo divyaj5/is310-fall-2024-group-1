@@ -37,9 +37,22 @@ present in each of the games. We are unsure if this is possible with the files t
 "skin tones" and create a data visualization of the color distributions across games. 
 
 ## Sourcing Games: Flashpoint Archive Search
-Due to the lack of tabular directories on Flashpoint Archive's API, our group chose to create a controlled vocabulary to utilize the pre-existing search engine on 
-the platform. 
+Due to the lack of a structured directory on Flashpoint Archive's API, our group developed a controlled vocabulary to refine our searches and efficiently locate relevant dress-up games. We followed these steps to ensure consistent results across team members:
 
+- **Controlled Vocabulary Development**:
+- **Created a list of keywords relevant to dress-up games and gender representation, such as “dress-up,” “fashion,” “styling,” “makeover,” and “character customization.”
+- **These keywords were tested iteratively to capture the broadest selection of games that aligned with our project focus.
+- **Search Process**:
+- **Platform Navigation: Each team member used the Flashpoint Archive's search bar with the controlled vocabulary to locate games.
+- **Keyword Application: Keywords were applied individually and in combinations to maximize search results.
+- **Date Filters: To separate games pre- and post-2011, we checked the release dates associated with each game, verifying alignment with the project’s timeframe.
+- **Inclusion Criteria**:
+- **Games with dress-up and customization features.
+- **Availability of gender selection and multiple skin tones.
+- **Games that run on the Ruffle emulator for usability in analysis.
+- **Exclusion Criteria**:
+- **Excluded non-dress-up games or those with limited customization features.
+- **Games without specified release dates or those that could not operate fully on the Ruffle emulator were deprioritized.
 ## Collecting Data
 - (Requirement) Alongside your dataset, you must submit documentation that details the process of data collection and the choices your group made along the way. 
 This should include explanations of how you gathered the data, any challenges you encountered, and the criteria you used to include or exclude certain data points. 
