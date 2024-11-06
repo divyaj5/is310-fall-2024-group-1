@@ -2,8 +2,8 @@
 Exploring the byegone era of Adobe Flash games
 
 ## Project Manager Rotation
-- **__Current PM (Oct 22th-29th)__**: Ellis
-- **Next PM**: Thea
+- **__Current PM (Nov 6-12th)__**: Thea K.
+- **Next PM**: A.G.
 - **Rotation as shown**: (A.G., Divya J., Ellis L., Thea K.)
 
 ## Premise of Project
