@@ -1,0 +1,52 @@
+html_url,issue_status_on_project_board,title,created_at,content.body,user.login,state,body,updated_at,closed_at,assignee,assignees,labels,milestone,draft,comments,state_reason,closed_by.login,reactions.total_count,pull_request.url,assignees_logins,issue_duration,issue_associated_with_pull_request
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/12,Done,Outline + Final Report,2024-10-25 17:34:27+00:00,,elee33,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/11,Done,Basic Analysis,2024-10-25 17:29:51+00:00,,elee33,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/8,Done,Decide on a platform for the project,2024-10-14 20:34:06+00:00,,divyaj5,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/9,Done,Collect Data and Form Dataset,2024-10-14 20:37:49+00:00,,divyaj5,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/4,Done,PT 2: AI Cultural Data Analysis,2024-09-20 02:03:00+00:00,,AG-Samaniego,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/3,Done,PT 1: Data Set Identification & Comparison,2024-09-20 01:06:11+00:00,,AG-Samaniego,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/7,Done,@divyaj5 Part 2: Step 2: Review Terms of Service & Access Limitations,2024-10-14 19:58:45+00:00,,divyaj5,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/10,Done,Document Data Structure and Reflect on Data,2024-10-14 20:39:07+00:00,,divyaj5,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/pull/5,,Merge Part 2 Changes,2024-09-23 19:32:15+00:00,,AG-Samaniego,closed,Part 2 questions & images have been completed; wanting to merge updates into main branch,2024-09-23 19:32:32+00:00,2024-09-23 19:32:32+00:00,,[],[],,False,0.0,,AG-Samaniego,0.0,https://api.github.com/repos/CultureAsData-UIUC/is310-fall-2024-group-1/pulls/5,,0.0,True
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-1/issues/2,,[Weekly Report] Project Manager for September 17-23rd (A.G.),2024-09-18 02:25:24+00:00,,AG-Samaniego,closed,"# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Moved brainstorming documents into repo
+- [x] Collect potential data sources for Adobe Flash Media and paste the links into the repo
+- [x] Complete questions for Pt 2
+- [x] Draft project proposal
+- [x] Complete and close issue
+
+## Weekly Summary:
+
+> What were the goals for this week for the group project?
+- Find data sources or archives for Adobe flash media
+- Refine our research question
+- Brainstorm how to scale our research, and how to tackle access limitations (ex: Flashpoint only having a search function)
+
+> What has been accomplished?
+- **Data sources found**: We will be using Flashpoint Archive to source our pre-2011 and post-2011 Flash games
+- **Decided our research question**: ""What patterns in the portrayals of gender arise in Adobe Flash games pre-2011 and post-2011?""
+
+> Any problems or issues that need resolving?
+- Ellis can't push onto the repo, and we don't know why?
+     - Will be figuring out in class on Tuesday
+- Need to figure out how we will parse through Flashpoint archive, given that the games are not indexed in pages or categorized into any game category
+
+## Next Week's Goals:
+
+> What are the goals for the upcoming week?
+- Determine how we will collect data through Flashpoint archive
+- Figure out how to run Flashpoint from our local machines
+- Test some of the games in the archive, check which ones work
+- See if we can webscrape some of the tabular data
+
+> Who is assigned to what tasks?
+- Next PM: Divya Jain
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-09-24 04:15:49+00:00,2024-09-24 04:15:48+00:00,,[],[],,,1.0,completed,AG-Samaniego,0.0,,,6.0,False

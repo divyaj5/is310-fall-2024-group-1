@@ -1,0 +1,103 @@
+oid,message,committedDate,additions,deletions,changedFiles,login
+0f742a63084f50049f504e0768fba73cad81671b,"Merge pull request #1 from CultureAsData-UIUC/adding-project-management-workflow
+
+Adding project management workflow",2024-09-10T19:42:04Z,41,0,2,AG-Samaniego
+df4b4e90ff1e057666349a2175ba0f89b122f9b9,"Update dataset-documentation.md
+
+AG: Additional explanations in 'data collection'",2024-10-29T03:02:24Z,4,4,1,AG-Samaniego
+81c5e95deddd6bc99d8e9ae557ab81333c4cba96,"Update dataset-documentation.md
+
+AG: small format adjustments for readability",2024-10-29T02:27:16Z,12,15,1,AG-Samaniego
+d92efb43c69e400fb07da188a763e5a6145a68dc,"Update README.md
+
+Updated formatting w/ bolded text & bullet points",2024-10-17T18:34:58Z,8,8,1,AG-Samaniego
+3fc635e857b0d285fe5a78ed23baeefe7a5938bf,"Update README.md
+
+changed heading formats",2024-10-17T18:32:49Z,3,3,1,AG-Samaniego
+b2746b76dfdcf17f7ef08469ff177e862f3b8ab7,"Update README.md
+
+Updated PM",2024-10-14T19:35:41Z,2,2,1,AG-Samaniego
+a5f0403542cadf3e340dc4e538701a64dac30968,"Update README.md
+
+Changed group member roster, edited rotation (removed Zifan), and updated Navigation section",2024-09-30T16:00:14Z,2,2,1,AG-Samaniego
+271a25bfab943400d96335a19062910399e1793c,"Merge pull request #6 from CultureAsData-UIUC/project-proposal-feedback
+
+Initial project proposal feedback",2024-09-30T15:55:35Z,50,0,1,AG-Samaniego
+e0afa1780e93fd39dc0c5504eeb9d7142e83df15,Update cultureasdata-part1.md,2024-09-24T19:36:30Z,1,0,1,AG-Samaniego
+ce354e903e7a69986caa808766aced06ee91059d,"Update cultureasdata-part1.md
+
+forgot to add link to Flashpoint archive, my bad",2024-09-24T19:35:45Z,2,2,1,AG-Samaniego
+a3d3c569fa47134edddb95c1c1eefe2b58665556,"Update research-proposal.md
+
+included link to dataset/flashpoint archive",2024-09-24T19:34:49Z,1,1,1,AG-Samaniego
+e821db3889be55be71e074252a2a8d6558ae56e2,"Update README.md
+
+changed group members names",2024-09-24T04:12:18Z,1,1,1,AG-Samaniego
+ba4c48cd5202da3e7ad434cadcbc078c889c92f0,"Update cultureasdata-part1.md
+
+added details to question 4, edited question 1",2024-09-24T04:11:33Z,9,10,1,AG-Samaniego
+36959a04c875ffb6d3207ef4b9e8beeb3260ddc5,"Update research-proposal.md
+
+GOT THE IMAGES TO SHOW UP LETS GO",2024-09-24T03:58:20Z,4,3,1,AG-Samaniego
+02b353fa85f4b7a39adfd0607426fc28627a6a7f,"Rename cultureasdata-part1 to cultureasdata-part1.md
+
+Changed to markdown file",2024-09-23T20:50:04Z,0,0,1,AG-Samaniego
+b47c79f6a5fa51bd097907edcc22636e82de2ec8,"Merge pull request #5 from divyaj5/main
+
+Merge Part 2 Changes",2024-09-23T19:32:32Z,30,0,4,AG-Samaniego
+46af63c7ab858d199198c934023cd7ac71baffea,"Create research-proposal.md
+
+basic outline for proposal (will be finished soon)",2024-09-22T20:21:17Z,28,0,1,AG-Samaniego
+cc8f200ec2aa7b157b33f193ab416de53311c2cd,"Update README.md
+
+changed notation in ""Navigation""",2024-09-22T20:16:24Z,2,2,1,AG-Samaniego
+65b7e78f8c104bec6c2d38c03b3d8988ce9dc3bc,"Update README.md
+
+added ""Navigation"" section to show where to find files",2024-09-22T20:15:20Z,5,0,1,AG-Samaniego
+b758cd3b3eccad709c37b3af3edd2cfa1d0d4ed2,"Rename project-docs/first-doc.md to brainstorm-doc.md
+
+renamed from ""first-doc"" to ""brainstorm-doc""",2024-09-22T19:08:53Z,0,0,1,AG-Samaniego
+a43b9db4f10a603562839daca2975bb7f44fd6cc,"Rename cultureasdata part 1 to cultureasdata-part1
+
+changed title",2024-09-21T18:17:20Z,0,0,1,AG-Samaniego
+fcc7741ac70a85e555e5a1f897e714af5adb6179,Update README.md,2024-10-29T16:35:12Z,2,2,1,elee33
+a915e75575df0c85adc4cedba81ae0d38cdd2f16,Update dataset-documentation.md,2024-10-29T02:23:29Z,10,10,1,elee33
+32e8a45b3c1d2d0df38898e7b15681d41bfd51e7,Update dataset-documentation.md,2024-10-29T02:22:12Z,15,2,1,elee33
+23befc72a835d6601f9f5ae2fd8d9ed710d10ded,Update README.md,2024-10-29T02:17:09Z,1,1,1,elee33
+e7323dd451024bc665ef3627564fc28bb67f936e,Update README.md,2024-10-29T02:16:34Z,1,1,1,elee33
+00d91e70267fa689b766b733dd670a52af15e365,Update README.md,2024-10-29T02:16:03Z,2,1,1,elee33
+f51a7a21abcf0d24dc46506ab0c93b52a7a6f773,Update README.md,2024-10-29T01:57:18Z,2,1,1,elee33
+37109d356952393bd29c27797171016467949d09,Create README.md,2024-10-29T01:55:55Z,21,0,1,elee33
+68aef559a6053c16e65a2b88f1bb1906fdbb0f16,Update dataset-documentation.md,2024-10-29T01:47:44Z,13,13,1,elee33
+466338f6c086e9cbea1edcb288d40a52cbe2a4fa,Update dataset-documentation.md,2024-10-29T01:43:11Z,13,1,1,elee33
+590edf5ab34438d6b5b5f4c8f7c57d775d93051a,Update Part-2-Perspective-Power.txt,2024-10-21T15:25:52Z,2,2,1,elee33
+e8996565c6d082ddfd0e848fb058096d224f5f77,Update Part-2-Perspective-Power.txt,2024-10-21T15:23:18Z,8,11,1,elee33
+db4e9d2fc29098dc553c472e79bd2d395d6835da,Update Part-2-Perspective-Power.txt,2024-10-21T15:19:42Z,0,5,1,elee33
+0f3a3044897b0c54417e2582cf44a194282d183a,Update Part-2-Perspective-Power.txt,2024-10-21T15:19:18Z,24,0,1,elee33
+66e422b748fc0c1e1f73c762cd19f70e078a1e54,Update README.md,2024-10-15T02:17:54Z,1,1,1,elee33
+1bfc7b76161f3b1da0a005b7ade933910c5d1855,AG: added table headings explanation,2024-10-28T13:32:15Z,28,12,1,AG-Samaniego
+83f0616713a90943be244429578dc22beb2897cb,AG: dataset overview & team resp.,2024-10-28T12:42:58Z,22,17,1,AG-Samaniego
+fa50745daaac524135f36876f37c14739b97276e,Documentation outline,2024-10-28T02:37:20Z,27,0,1,AG-Samaniego
+661308e5377d1607b406f0a3b580cd8b1b1a4c5c,Added screenshots of data table,2024-10-14T17:46:26Z,0,0,2,AG-Samaniego
+c8c62ac7954bcff1fc80dbed63d69c8e74842bea,Added folder for new assignment,2024-10-08T14:40:26Z,0,0,1,AG-Samaniego
+c68a754325f26735e3fea9d2606a172c6557f390,made new proj-feedback folder,2024-09-30T16:09:04Z,50,0,1,AG-Samaniego
+1272bea45ee756e3a60358faadf981a80d236df1,image change,2024-09-24T02:52:01Z,2,2,1,AG-Samaniego
+f2b03c380499fe71a6db7137a4a75a90080c3234,"proposal submitted, tentative timeline incomplete",2024-09-24T02:49:37Z,21,35,3,AG-Samaniego
+9c28f7ce2087d8d50f1066ea127783d0f4ff2fd0,Pushed Ellis' images,2024-09-24T01:52:24Z,61,60,10,AG-Samaniego
+c09d0aa23dd43e910e899c4baeddbda8ab718496,moved brainstorm document back into project-docs,2024-09-23T19:39:56Z,58,0,1,AG-Samaniego
+9f4eecafe9dfb1ed9062a6e161d485680f42b2ee,edited md formatting of Part 1,2024-09-23T19:36:02Z,17,21,1,AG-Samaniego
+9c96bf316eb4ef383309bb27a3ceba72965b9cf0,added images folder to collect screenshots,2024-09-21T00:44:55Z,4,0,2,AG-Samaniego
+657619489fbdfa4bd9d4edf5b9f8bab918f60e65,README edited formatting,2024-09-18T02:53:57Z,3,3,1,AG-Samaniego
+754da55799a1be3f6bc602ea8cf7b877b8d2cc0e,Updated Readme & transferred OG Google Doc,2024-09-18T02:52:12Z,66,5,2,AG-Samaniego
+365e37512f248a6ed0295b2f410a58d24209f65f,Update dataset-documentation.md,2024-10-28T13:56:01Z,2,0,1,theajk2
+0f387b8250cf48a29b371140a2a9c27a37e2191c,Update README.md,2024-10-14T19:53:24Z,42,0,1,theajk2
+f949506f92ec9910dda1368207dea8dd5fc11424,Create README.md,2024-10-14T19:50:46Z,1,0,1,theajk2
+d4869a13c2ef8b515e85a98a0882fe87860aa8dc,Add files via upload,2024-10-14T19:30:34Z,395,0,1,theajk2
+25bce6148179cb46ef08cb8b993e1b08c0277487,Create data_reflection_documentation.md,2024-10-14T19:07:19Z,1,0,1,theajk2
+47851dd198b40bc07e5353e85b0200f5968c7f11,Update proprietary_platform_exploration.md,2024-10-14T18:48:24Z,2,0,1,theajk2
+87ebe284527958d484464ae5d1df4a7ff376b683,Create proprietary_platform_exploration.md,2024-10-14T18:23:49Z,1,0,1,theajk2
+e5f28564f66d24cc6d2fe67fb09243a2638a459c,Update cultureasdata-part1,2024-09-22T15:20:44Z,43,2,1,theajk2
+bfdc8147e3f5bb0496bfd23a6837ad96f0ef60b6,Update cultureasdata-part1,2024-09-21T18:23:36Z,3,0,1,theajk2
+0b6ed0806d24b327fe60613d03234b7ed35ef42d,Create cultureasdata part 1,2024-09-21T18:12:50Z,1,0,1,theajk2
+d4998dd5aea5df3b3ad3f8d59f95a8dd8850b499,Added Part2-doc,2024-09-23T17:37:37Z,30,0,2,divyaj5
+f04be2e50e3907264058dd6f4fd6da1534326433,Commit Screenshots (ChatGPT),2024-09-23T01:16:41Z,0,0,2,divyaj5
